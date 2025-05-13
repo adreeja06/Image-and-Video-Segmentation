@@ -1,4 +1,4 @@
-##Object Segmentation with SAM Model
+#Object Segmentation with SAM Model
 This project demonstrates object segmentation using the SAM (Segment Anything Model) from Ultralytics. The goal is to load a pre-trained SAM model and perform segmentation on input images or videos, extracting and displaying individual objects via their bounding boxes.
 
 Features:
